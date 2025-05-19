@@ -1,0 +1,2 @@
+BASE_URL = 'https://api.coingecko.com/api/v3/coins/markets?&x_cg_demo_api_key=CG-YGNWfYPDUT6fqoqcjEruoqqh'
+HISTORY_URL = 'https://api.coingecko.com/api/v3/coins/{id}/market_chart?&x_cg_demo_api_key=CG-YGNWfYPDUT6fqoqcjEruoqqh'

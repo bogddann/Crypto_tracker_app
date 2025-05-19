@@ -1,0 +1,5 @@
+streamlit
+requests
+pandas
+
+#de adaugat si versiunea
